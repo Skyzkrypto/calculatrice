@@ -1,0 +1,18 @@
+from tkinter import *
+
+# Boucle principale
+
+running = True
+while running == True :
+
+    def calcule():
+        
+        # fenetre
+
+        calculator = Tk()
+
+        # Configuration de la fenetre
+
+        calculator.minsize(750, 750)
+        calculator.maxsize(750, 750)
+        
