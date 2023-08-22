@@ -26,11 +26,10 @@ while running == True :
 
         # Configuration de la fenetre
 
-        calculator.minsize(750, 750)
-        calculator.maxsize(750, 750)
+        calculator.minsize(250, 350)
+        calculator.maxsize(650, 750)
         calculator.title("Calculatrice")
         calculator.config(bg="#EACDC7")
-
         # boutton   
 
         plus = Button(frame_calcul, text="+", font=("arial", 25))
