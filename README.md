@@ -1,5 +1,5 @@
 # calculatrice
 
-librerie a installer
+Librairie a installer :
 
-pip3 install tkinter ou pip install tkinter
+aucune, ce programme utilise tkinter, qui est inclus de base dans Python
